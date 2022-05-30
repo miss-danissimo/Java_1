@@ -1,6 +1,7 @@
 package HW_1;
 
 public class HomeWorkApp {
+
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
@@ -40,5 +41,4 @@ public class HomeWorkApp {
             System.out.println("a < b");
         }
     }
-
 }
